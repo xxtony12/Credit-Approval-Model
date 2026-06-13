@@ -16,8 +16,13 @@ The project includes train/test validation, model tuning, confusion matrix evalu
 Support credit underwriting analysis by identifying variables associated with approval outcomes and evaluating model performance on unseen application data.
 
 ## Model Performance
-- Out-of-sample accuracy: XX%
-
+- Out-of-sample accuracy: 86.1%
+- Train/test split: 70/30
+- Model: Random Forest classification
+- Test set size: 208 records
+- Correct predictions: 179 out of 208
+- Top model drivers: Prior Default, Credit Score, Income, Years Employed, and Debt
+  
 ## Key Features
 - Train/test split
 - Random Forest classification
