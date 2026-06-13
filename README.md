@@ -42,8 +42,8 @@ The partial dependence plot shows how the model’s predicted approval probabili
 
 ## Model Tuning
 Hyperparameter tuning was performed using `tuneRF` to compare OOB error across different `mtry` values.
+![Rplot](https://github.com/user-attachments/assets/634f4604-60b5-4381-ad25-d124808fce88)
 
-[Rplot.pdf](https://github.com/user-attachments/files/28906291/Rplot.pdf)
 
 ## Key Features
 - Train/test split
